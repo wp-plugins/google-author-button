@@ -12,6 +12,10 @@ This plugin adds a 'Add [author_name] on Google+' button to the end of every pos
 
 This plugin adds a 'Add [author_name] on Google+' button to the end of every post. Simply add your Google+ ID to the 'Your Profile' area of the Admin.
 
+
+* [Google+ Author Button](http://www.seowned.co.uk/wordpress-plugins/add-an-add-to-circles-button-to-your-wordpress-posts/) plugin homepage.
+* [Follow @DanTaylorSEO on Twitter](http://twitter.com/dantaylorseo).
+
 == Installation ==
 
 1. Upload plugin folder to the `/wp-content/plugins/` directory
